@@ -1,2 +1,2 @@
 # data
-Public data for analytic projects.
+Public data for my personal analytic projects.
